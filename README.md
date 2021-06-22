@@ -13,7 +13,7 @@ It is a Repository for training Image Classification model easily.
 
 ---
 
-[Introduction](#Intorduction)
+[Introduction](#Introduction)
 
 [Requirment](#Requirment)
 
